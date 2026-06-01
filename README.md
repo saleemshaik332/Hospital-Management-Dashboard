@@ -1,2 +1,28 @@
-# Hospital-Management-Dashboard
-This project is an interactive Hospital Management Dashboard developed using Power BI. The dashboard provides insights into hospital operations, patient management, doctor performance, admissions, discharges, treatment costs, and overall healthcare analytics.
+# Hospital Management Dashboard
+
+## Project Overview
+This Power BI dashboard helps hospitals monitor patient records, treatment procedures, costs, and satisfaction scores.
+
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+## Key KPIs
+- Total Patients
+- Total Cost
+- Patient Satisfaction
+- Recovery Status
+
+## Dashboard Features
+- Gender Analysis
+- Procedure Analysis
+- Condition Analysis
+- Interactive Filters
+
+## Dashboard Preview
+(Add Screenshot Here)
+
+## Author
+Saleem Shaik
