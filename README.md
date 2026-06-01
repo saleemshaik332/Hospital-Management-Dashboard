@@ -19,10 +19,7 @@ This Power BI dashboard helps hospitals monitor patient records, treatment proce
 - Gender Analysis
 - Procedure Analysis
 - Condition Analysis
-- Interactive Filters
-
-## Dashboard Preview
-(Add Screenshot Here)
+- Interactive Filter
 
 ## Author
 Saleem Shaik
